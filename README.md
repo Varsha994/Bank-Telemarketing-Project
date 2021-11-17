@@ -1,2 +1,2 @@
 ## Bank-Telemarketing-Project
-#### The Telemarketing Team of a Bank runs campaigns to expand the term deposit portfolio. Requirement is to enable prioritization for the Telemarketing team, so that overall responses and ROI of the campaign increases.
+#### A data-driven approach to predict the success of bank telemarketing  campaign : Predicting whether a customer will subscribe a term deposit or not on basis of given customer relationship data
